@@ -14,5 +14,10 @@ Another school project
 └── Textures - Global texture assets
 	└── Asset 2 (example) - Contains exported assets such as PNG files
 		└── Source - Contains source files such as Aseprite files
-			└── Asset 1.aseprite (example)
+			└── Asset 2.aseprite (example)
+
+└── UI - UI texture assets (Only contains concepts!) (UI files will most likely change)
+	└── Asset 3 (example) - Contains exported assets such as PNG files
+		└── Source - Contains source files such as Adobe XD files or textures 
+			└── Asset 3.xd (example)
 ```
